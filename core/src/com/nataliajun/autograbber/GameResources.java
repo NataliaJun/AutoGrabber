@@ -19,7 +19,7 @@ public class GameResources {
     public static final String LIVE_IMG_PATH = "textures/life.png";
     public static final String LIVE_PANEL_IMG_PATH = "textures/lifepanel.png";
 
-    public static final String BULLET_IMG_PATH = "textures/bullet.png";
+    //public static final String BULLET_IMG_PATH = "textures/bullet.png";
     public static final String SHIP_IMG_PATH = "textures/car.png";
     public static final String TRASH_IMG_PATH = "textures/cone.png";
     public static final String BONUS_IMG_PATH = "textures/oil.png";
